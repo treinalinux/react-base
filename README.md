@@ -9,3 +9,7 @@ It includes:
 + react-i18n (app strings in English 🇺🇸 and Brazilian Portuguese 🇧🇷)
 + react-router
 + A useCounter hook
+
+**Source:**
+
+[@rrgomide](https://github.com/rrgomide/rrgomide-react-base)
